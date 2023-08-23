@@ -1,0 +1,15 @@
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\bin\Debug\net6.0\stringsearchtest.exe
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\bin\Debug\net6.0\stringsearchtest.deps.json
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\bin\Debug\net6.0\stringsearchtest.runtimeconfig.json
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\bin\Debug\net6.0\stringsearchtest.dll
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\bin\Debug\net6.0\stringsearchtest.pdb
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.csproj.AssemblyReference.cache
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.AssemblyInfoInputs.cache
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.AssemblyInfo.cs
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.csproj.CoreCompileInputs.cache
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.dll
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\refint\stringsearchtest.dll
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.pdb
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\stringsearchtest.genruntimeconfig.cache
+C:\Users\jonat\source\repos\stringsearchtest\stringsearchtest\obj\Debug\net6.0\ref\stringsearchtest.dll
